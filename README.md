@@ -1,10 +1,5 @@
 # Flutter Online Bank UI 
 
-<p align="center">
- <img src="readme/1.png" width='1024'/>
-</p>
-
-
 ## Reference
 * Online Bank UI : https://whimsical-melba-1536e9.netlify.app/#/
 
